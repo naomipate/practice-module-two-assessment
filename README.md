@@ -32,8 +32,6 @@ But wait, there's more! Here are a few additional features that you can add to t
 ## Resources
 
 - API Documentation: https://randomuser.me/documentation#howto
-- API Get 1 Random Person: https://randomuser.me/api/
-- API Get X Random People: https://randomuser.me/api/?results=X
 - Material Icons: https://fonts.google.com/icons?icon.set=Material+Icons+Outlined
 
 ## Hints
